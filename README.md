@@ -7,7 +7,7 @@ A deep learning and OpenCV-based line follower robot using a webcam and Arduino 
 
 - [Introduction](#Introduction)
 - [Literature](#Literature)
-- [Design of Hardware and Software](#Design-of-Hardware-and-Software)
+- [Design of Hardware and Software](#Desig)
 - [Result](#Result)
 
 ---
