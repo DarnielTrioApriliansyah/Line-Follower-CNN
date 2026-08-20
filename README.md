@@ -127,3 +127,55 @@ different role in developing and operating the line follower robot.
 ## Result
 
 ### Collecting Dataset
+
+<p align="center">
+  <img src="images/a.png" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/b.png" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/n.png" width="1000">
+</p>
+
+### Training Model
+
+The collected image dataset was used to train a **Convolutional Neural
+Network (CNN)** model to classify the movement of the line follower
+robot into three classes: **Forward (F), Left (L), and Right (R)**.
+
+#### Training Accuracy
+
+<p align="center">
+  <img src="images/accuracy_plot.png" width="650">
+</p>
+
+The training and validation accuracy increased rapidly during the early
+epochs and reached approximately **100% accuracy**. The validation
+accuracy also followed the training accuracy closely, indicating that
+the model was able to learn the visual patterns from the dataset
+effectively.
+
+#### Confusion Matrix
+
+<p align="center">
+  <img src="images/confusion_matrix.png" width="700">
+</p>
+
+The confusion matrix shows the classification performance of the trained
+model on the test data. The model correctly classified all samples in
+the three movement classes:
+
+| Class | Correct Predictions |
+|:---:|:---:|
+| **F (Forward)** | 6 |
+| **L (Left)** | 5 |
+| **R (Right)** | 4 |
+
+There were **no misclassified samples** in the test set. Therefore, the
+model achieved **100% classification accuracy on this test dataset**.
+
+The results show that the trained CNN model was able to distinguish
+between the three movement classes effectively.
