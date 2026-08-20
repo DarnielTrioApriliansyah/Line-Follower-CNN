@@ -179,3 +179,23 @@ model achieved **100% classification accuracy on this test dataset**.
 
 The results show that the trained CNN model was able to distinguish
 between the three movement classes effectively.
+
+### Testomg
+
+#### Forward Condition
+
+<p align="center">
+  <img src="images/maju.png" width="1000">
+</p>
+
+#### Left Condition
+
+<p align="center">
+  <img src="images/kiri.png" width="1000">
+</p>
+
+#### Right Condition
+
+<p align="center">
+  <img src="images/kanan.png" width="1000">
+</p>
