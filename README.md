@@ -114,7 +114,7 @@ deep learning model to identify the appropriate movement of the robot.
 
 The system classifies the line condition into three movement commands:
 
-## Programs
+---
 
 ## Programs
 
@@ -122,4 +122,8 @@ The program is divided into **four main parts**: **data collection,
 data training, testing, and Arduino control**. Each program has a
 different role in developing and operating the line follower robot.
 
+---
+
 ## Result
+
+### Collecting Dataset
