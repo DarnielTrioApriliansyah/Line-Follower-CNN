@@ -28,7 +28,7 @@ The main goal of this project is to explore the integration of computer vision, 
 
 ### Deep Learning
 
-<p align="center"> <img src="images/fuzzy.png" width="400"> </p>
+<p align="center"> <img src="images/dl.jpg" width="400"> </p>
 
 Deep Learning is a subfield of machine learning that uses artificial neural networks with multiple layers to learn and recognize patterns from data. It is particularly useful for processing complex data such as images, videos, and other visual information.
 
@@ -36,7 +36,7 @@ In this project, deep learning is used to learn the visual patterns of the line 
 
 ### Convolutional Neural Network (CNN)
 
-<p align="center"> <img src="images/linefollower.jpg" width="400"> </p>
+<p align="center"> <img src="images/cnn.png" width="400"> </p>
 
 Convolutional Neural Network (CNN) is a type of deep learning architecture commonly used for image and visual data processing. CNN is designed to automatically learn important features from images through layers such as convolution and pooling.
 
@@ -52,7 +52,7 @@ In this project, OpenCV is used to capture images from the webcam and prepare th
 
 ### Arduino UNO
 
-<p align="center"> <img src="images/rasp.jpg" width="400"> </p>
+<p align="center"> <img src="images/arduino uno.jpg" width="400"> </p>
 
 Arduino Uno is a microcontroller board based on the ATmega328P and is commonly used for embedded systems and robotics applications.
 
@@ -78,7 +78,7 @@ handles image processing, deep learning, and movement classification.
 ### Hardware Design
 
 <p align="center">
-  <img src="images/schematic.png" width="900">
+  <img src="images/skematik.png" width="1000">
 </p>
 
 The hardware consists of a **webcam, Arduino Uno, L293D motor driver,
@@ -123,15 +123,3 @@ data training, testing, and Arduino control**. Each program has a
 different role in developing and operating the line follower robot.
 
 ## Result
-
-### Forward Condition
-
-<p align="center"> <img src="images/Maju.png" width="1000"> </p>
-
-### Left Condition
-
-<p align="center"> <img src="images/Kiri.png" width="1000"> </p>
-
-### Right Condition
-
-<p align="center"> <img src="images/Kanan.png" width="1000"> </p>
